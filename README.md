@@ -32,7 +32,7 @@ Add the following Maven dependency:
 </dependency>
 ```
 
-Then, follow one of the [example](/src/main/java/examples) to build a Flink job.
+Then, follow one of the [examples](/src/main/java/examples) to build a Flink job.
 
 ### Configuration
 

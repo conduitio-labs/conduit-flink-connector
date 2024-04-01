@@ -20,5 +20,6 @@ jobs:
       - name: Publish package
         run: mvn --batch-mode deploy
         env:
+          # Sonatype username and password
           MAVEN_USERNAME: ${{ secrets.OSSRH_USERNAME }}
           MAVEN_PASSWORD: ${{ secrets.OSSRH_PASSWORD }}

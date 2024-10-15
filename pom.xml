@@ -36,7 +36,7 @@
 
         <flink.version>1.17.2</flink.version>
         <jackson.version>2.18.0</jackson.version>
-        <logback.version>1.5.8</logback.version>
+        <logback.version>1.5.10</logback.version>
         <okhttp.version>2.7.5</okhttp.version>
     </properties>
 
